@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="mul" class="no-js">
+<head>
+<meta charset="utf-8">
+<title>Wikipedia</title>
+<meta name="description" content="Wikipedia is a free online encyclopedia, created and edited by volunteers around the world and hosted by the Wikimedia Foundation.">
+<![if gt IE 7]>
+<script>
+document.documentElement.className = document.documentElement.className.replace( /(^|\s)no-js(\s|$)/, "$1js-enabled$2" );
+</script>
+<![endif]>
+<!--[if lt IE 7]><meta http-equiv="imagetoolbar" content="no"><![endif]-->
+<meta name="viewport" content="initial-scale=1,user-scalable=yes">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico">
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/">
+<style>
+.sprite{background-image:url(portal/wikipedia.org/assets/img/sprite-81a290a5.png);background-image:linear-gradient(transparent,transparent),url(portal/wikipedia.org/assets/img/sprite-81a290a5.svg);background-repeat:no-repeat;display:inline-block;vertical-align:middle}.svg-Commons-logo_sister{background-position:0 0;width:47px;height:47px}.svg-MediaWiki-logo_sister{background-position:0 -47px;width:42px;height:42px}.svg-Meta-Wiki-logo_sister{background-position:0 -89px;width:37px;height:37px}.svg-Wikibooks-logo_sister{background-position:0 -126px;width:37px;height:37px}.svg-Wikidata-logo_sister{background-position:0 -163px;width:49px;height:49px}.svg-Wikimedia-logo_black{background-position:0 -212px;width:42px;height:42px}.svg-Wikipedia_wordmark{background-position:0 -254px;width:176px;height:32px}.svg-Wikiquote-logo_sister{background-position:0 -286px;width:42px;height:42px}.svg-Wikisource-logo_sister{background-position:0 -328px;width:39px;height:39px}.svg-Wikispecies-logo_sister{background-position:0 -367px;width:42px;height:42px}.svg-Wikiversity-logo_sister{background-position:0 -409px;width:43px;height:37px}.svg-Wikivoyage-logo_sister{background-position:0 -446px;width:36px;height:36px}.svg-Wiktionary-logo_sister{background-position:0 -482px;width:37px;height:37px}.svg-arrow-down{background-position:0 -519px;width:12px;height:8px}.svg-arrow-down-blue{background-position:0 -527px;width:12px;height:8px}.svg-badge_google_play_store{background-position:0 -535px;width:124px;height:38px}.svg-badge_ios_app_store{background-position:0 -573px;width:110px;height:38px}.svg-noimage{background-position:0 -611px;width:58px;height:58px}.svg-search-icon{background-position:0 -669px;width:22px;height:22px}.svg-translate-icon{background-position:0 -691px;width:25px;height:18px}.svg-wikipedia_app_tile{background-position:0 -709px;width:42px;height:42px}
+</style>
+<link rel="preload" as="image" href="portal/wikipedia.org/assets/img/sprite-81a290a5.svg">
+<link rel="preconnect" href="//upload.wikimedia.org">
+</head>
+<body id="www-wikipedia-org">
+<h1 class="central-textlogo" style="font-size: 1em;" title="Wikipedia">
+<img class="central-featured-logo" src="portal/wikipedia.org/assets/img/Wikipedia-logo-v2.png" srcset="portal/wikipedia.org/assets/img/Wikipedia-logo-v2@1.5x.png 1.5x, portal/wikipedia.org/assets/img/Wikipedia-logo-v2@2x.png 2x" width="200" height="183" alt="Wikipedia">
+<div class="central-textlogo-wrapper">
+<div class="central-textlogo__image sprite svg-Wikipedia_wordmark">
+Wikipedia
+</div>
+<strong class="jsl10n localized-slogan" data-jsl10n="slogan">The Free Encyclopedia</strong>
+</div>
+</h1>
